@@ -49,7 +49,7 @@ To design and implement a robot that can be controlled **without remotes or butt
 
 🎥 Demo Video  
 Watch the robot respond to hand gestures in real time!  
-▶️ [Click to Watch Demo Video](https://github.com/LakshyaXRobo/Gesture-Controlled-Bot/blob/main/Demonstration%20Video.mp4)  
+▶️ [Click to Watch Demo Video](https://github.com/LakshyaXRobo/Gesture-Controlled-Bot/blob/main/Demo%20Video.mp4)  
 
 🛠️ How to Use  
 1. Upload the **transmitter code** to Arduino Nano.  
