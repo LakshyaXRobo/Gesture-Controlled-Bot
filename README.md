@@ -44,8 +44,8 @@ To design and implement a robot that can be controlled **without remotes or butt
 - Arduino powered via VIN (from same battery)  
 
 👉 View the full codes here:  
-🔗 [Transmitter Code](Code/transmitter.ino)  
-🔗 [Receiver Code](Code/receiver.ino)  
+🔗 [Transmitter Code](Code/Transmitter_Code.ino)  
+🔗 [Receiver Code](Code/Receiver_Code.ino)  
 
 🎥 Demo Video  
 Watch the robot respond to hand gestures in real time!  
